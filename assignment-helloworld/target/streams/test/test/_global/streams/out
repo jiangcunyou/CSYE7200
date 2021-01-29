@@ -1,0 +1,13 @@
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(edu.neu.coe.csye7200.assthw.HelloWorldSpec, org.scalatest.tools.Framework$$anon$1@6f363e92, false, [SuiteSelector])[0m[0J
+[0m[[0m[0minfo[0m] [0m[0m[32mHelloWorldSpec:[0m[0m[0J
+[0m[[0m[0minfo[0m] [0m[0m[32mHelloWorld[0m[0m[0J
+[0m[[0m[0minfo[0m] [0m[0m[32m- should get the correct greeting[0m[0m[0J
+[0m[[0m[0minfo[0m] [0m[0m[32mIngest[0m[0m[0J
+[0m[[0m[0minfo[0m] [0m[0m[32m- should find the correct number of movies[0m[0m[0J
+[0m[[0m[0minfo[0m] [0m[0m[36mRun completed in 699 milliseconds.[0m[0m[0J
+[0m[[0m[0minfo[0m] [0m[0m[36mTotal number of tests run: 2[0m[0m[0J
+[0m[[0m[0minfo[0m] [0m[0m[36mSuites: completed 1, aborted 0[0m[0m[0J
+[0m[[0m[0minfo[0m] [0m[0m[36mTests: succeeded 2, failed 0, canceled 0, ignored 0, pending 0[0m[0m[0J
+[0m[[0m[0minfo[0m] [0m[0m[32mAll tests passed.[0m[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0mPassed tests:[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0m	edu.neu.coe.csye7200.assthw.HelloWorldSpec[0m[0J

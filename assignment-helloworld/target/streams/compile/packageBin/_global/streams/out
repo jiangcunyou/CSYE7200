@@ -1,0 +1,37 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging F:\Neu Class\CSYE7200-master\assignment-helloworld\target\scala-2.13\helloworld_2.13-1.0.jar ...[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0m	edu[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0m	  F:\Neu Class\CSYE7200-master\assignment-helloworld\target\scala-2.13\classes\edu[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0m	edu\neu[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0m	  F:\Neu Class\CSYE7200-master\assignment-helloworld\target\scala-2.13\classes\edu\neu[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0m	edu\neu\coe[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0m	  F:\Neu Class\CSYE7200-master\assignment-helloworld\target\scala-2.13\classes\edu\neu\coe[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0m	edu\neu\coe\csye7200[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0m	  F:\Neu Class\CSYE7200-master\assignment-helloworld\target\scala-2.13\classes\edu\neu\coe\csye7200[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0m	edu\neu\coe\csye7200\assthw[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0m	  F:\Neu Class\CSYE7200-master\assignment-helloworld\target\scala-2.13\classes\edu\neu\coe\csye7200\assthw[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0m	edu\neu\coe\csye7200\assthw\HelloWorld$.class[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0m	  F:\Neu Class\CSYE7200-master\assignment-helloworld\target\scala-2.13\classes\edu\neu\coe\csye7200\assthw\HelloWorld$.class[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0m	edu\neu\coe\csye7200\assthw\HelloWorld$delayedInit$body.class[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0m	  F:\Neu Class\CSYE7200-master\assignment-helloworld\target\scala-2.13\classes\edu\neu\coe\csye7200\assthw\HelloWorld$delayedInit$body.class[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0m	edu\neu\coe\csye7200\assthw\HelloWorld.class[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0m	  F:\Neu Class\CSYE7200-master\assignment-helloworld\target\scala-2.13\classes\edu\neu\coe\csye7200\assthw\HelloWorld.class[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0m	edu\neu\coe\csye7200\assthw\Ingest$.class[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0m	  F:\Neu Class\CSYE7200-master\assignment-helloworld\target\scala-2.13\classes\edu\neu\coe\csye7200\assthw\Ingest$.class[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0m	edu\neu\coe\csye7200\assthw\Ingest$delayedInit$body.class[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0m	  F:\Neu Class\CSYE7200-master\assignment-helloworld\target\scala-2.13\classes\edu\neu\coe\csye7200\assthw\Ingest$delayedInit$body.class[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0m	edu\neu\coe\csye7200\assthw\Ingest$IngestibleMovie$.class[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0m	  F:\Neu Class\CSYE7200-master\assignment-helloworld\target\scala-2.13\classes\edu\neu\coe\csye7200\assthw\Ingest$IngestibleMovie$.class[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0m	edu\neu\coe\csye7200\assthw\Ingest$IngestibleMovie.class[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0m	  F:\Neu Class\CSYE7200-master\assignment-helloworld\target\scala-2.13\classes\edu\neu\coe\csye7200\assthw\Ingest$IngestibleMovie.class[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0m	edu\neu\coe\csye7200\assthw\Ingest.class[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0m	  F:\Neu Class\CSYE7200-master\assignment-helloworld\target\scala-2.13\classes\edu\neu\coe\csye7200\assthw\Ingest.class[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0m	edu\neu\coe\csye7200\assthw\Ingestible.class[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0m	  F:\Neu Class\CSYE7200-master\assignment-helloworld\target\scala-2.13\classes\edu\neu\coe\csye7200\assthw\Ingestible.class[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0m	edu\neu\coe\csye7200\assthw\Movie$.class[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0m	  F:\Neu Class\CSYE7200-master\assignment-helloworld\target\scala-2.13\classes\edu\neu\coe\csye7200\assthw\Movie$.class[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0m	edu\neu\coe\csye7200\assthw\Movie.class[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0m	  F:\Neu Class\CSYE7200-master\assignment-helloworld\target\scala-2.13\classes\edu\neu\coe\csye7200\assthw\Movie.class[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0m	movie_metadata_5000.csv[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0m	  F:\Neu Class\CSYE7200-master\assignment-helloworld\target\scala-2.13\classes\movie_metadata_5000.csv[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m[0J
