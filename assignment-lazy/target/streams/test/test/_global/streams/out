@@ -1,0 +1,104 @@
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(edu.neu.coe.csye7200.asstll.MappedListSpec, org.scalatest.tools.Framework$$anon$1@5e319be4, false, [SuiteSelector])[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(edu.neu.coe.csye7200.asstll.MyLazyListSpec, org.scalatest.tools.Framework$$anon$1@5e319be4, false, [SuiteSelector])[0m[0J
+[0m[[0m[0minfo[0m] [0m[0m[32mMyLazyListSpec:[0m[0m[0J
+[0m[[0m[0minfo[0m] [0m[0m[32mCons[0m[0m[0J
+[0m[[0m[0minfo[0m] [0m[0m[32m- should produce a single of 1[0m[0m[0J
+[0m[[0m[0minfo[0m] [0m[0m[32m- should produce a stream of xs using Cons directly[0m[0m[0J
+[0m[[0m[0minfo[0m] [0m[0m[32mtoSeq[0m[0m[0J
+[0m[[0m[0minfo[0m] [0m[0m[32m- should produce a single 1[0m[0m[0J
+[0m[[0m[0minfo[0m] [0m[0m[32m- should produce a sequence of 1, 2[0m[0m[0J
+[0m[[0m[0minfo[0m] [0m[0m[32mones[0m[0m[0J
+[0m[[0m[0minfo[0m] [0m[0m[32m- should produce a stream of 1s[0m[0m[0J
+[0m[[0m[0minfo[0m] [0m[0m[32mtake[0m[0m[0J
+[0m[[0m[0minfo[0m] [0m[0m[32m- should take zero from a finite stream[0m[0m[0J
+[0m[[0m[0minfo[0m] [0m[0m[32m- should take zero from an infinite stream[0m[0m[0J
+[0m[[0m[0minfo[0m] [0m[0m[32m- should take 3 from a finite stream of actual length 1[0m[0m[0J
+[0m[[0m[0minfo[0m] [0m[0m[32m- should take 3 from an infinite stream[0m[0m[0J
+[0m[[0m[0minfo[0m] [0m[0m[32m- should take 3 from an infinite stream of 1s that counts[0m[0m[0J
+[0m[[0m[0minfo[0m] [0m[0m[32m- should take 3 from an infinite incrementing stream that counts[0m[0m[0J
+[0m[[0m[0minfo[0m] [0m[0m[32mdrop[0m[0m[0J
+[0m[[0m[0minfo[0m] [0m[0m[32m- should work correctly[0m[0m[0J
+[0m[[0m[0minfo[0m] [0m[0m[32m++[0m[0m[0J
+[0m[[0m[0minfo[0m] [0m[0m[32m- should join two Empty streams together[0m[0m[0J
+[0m[[0m[0minfo[0m] [0m[0m[32m- should join a stream with an Empty stream[0m[0m[0J
+[0m[[0m[0minfo[0m] [0m[0m[32m- should join an Empty stream with a stream[0m[0m[0J
+[0m[[0m[0minfo[0m] [0m[0m[32mmap[0m[0m[0J
+[0m[[0m[0minfo[0m] [0m[0m[32m- should produce a stream of 2s[0m[0m[0J
+[0m[[0m[0minfo[0m] [0m[0m[32mflatMap[0m[0m[0J
+[0m[[0m[0minfo[0m] [0m[0m[32m- should produce a stream of 2s from a single element 1[0m[0m[0J
+[0m[[0m[0minfo[0m] [0m[0m[32m- should produce a stream of 2s from a stream of 1s[0m[0m[0J
+[0m[[0m[0minfo[0m] [0m[0m[32mfrom[0m[0m[0J
+[0m[[0m[0minfo[0m] [0m[0m[32m- should get a Seq(2, 4, 6, 8)[0m[0m[0J
+[0m[[0m[0minfo[0m] [0m[0m[32m- should get a Seq(1, -1, -3, -5)[0m[0m[0J
+[0m[[0m[0minfo[0m] [0m[0m[32mfilter[0m[0m[0J
+[0m[[0m[0minfo[0m] [0m[0m[32m- should produce a stream of even numbers using from(1)[0m[0m[0J
+[0m[[0m[0minfo[0m] [0m[0m[32m- should produce a stream of even numbers using from(2,2)[0m[0m[0J
+[0m[[0m[0minfo[0m] [0m[0m[32mfilterNot[0m[0m[0J
+[0m[[0m[0minfo[0m] [0m[0m[32m- should produce a stream of even numbers using from(1)[0m[0m[0J
+[0m[[0m[0minfo[0m] [0m[0m[32m- should produce a stream of even numbers using from(2,2)[0m[0m[0J
+[0m[[0m[0minfo[0m] [0m[0m[32mzip[0m[0m[0J
+[0m[[0m[0minfo[0m] [0m[0m[32m- should zip together two empty streams[0m[0m[0J
+[0m[[0m[0minfo[0m] [0m[0m[32m- should zip together a stream and an empty stream[0m[0m[0J
+[0m[[0m[0minfo[0m] [0m[0m[32m- should zip together an empty stream and a stream[0m[0m[0J
+[0m[[0m[0minfo[0m] [0m[0m[32m- should zip together two non-empty streams[0m[0m[0J
+[0m[[0m[0minfo[0m] [0m[0m[32mapply[0m[0m[0J
+[0m[[0m[0minfo[0m] [0m[0m[32m- should produce a stream of a single 1[0m[0m[0J
+[0m[[0m[0minfo[0m] [0m[0m[32mcontinually[0m[0m[0J
+[0m[[0m[0minfo[0m] [0m[0m[32m- should produce a stream of 1s[0m[0m[0J
+[0m[[0m[0minfo[0m] [0m[0m[32m- should produce a stream of 1 thru 3[0m[0m[0J
+[0m[[0m[0minfo[0m] [0m[0m[32mMyLazyList as a monad[0m[0m[0J
+[0m[[0m[0minfo[0m] [0m[0m[32m- should support a for-comprehension[0m[0m[0J
+[0m[[0m[0minfo[0m] [0m[0m[32m- should support a for-comprehension with filter[0m[0m[0J
+[0m[[0m[0minfo[0m] [0m[0m[32msingleton[0m[0m[0J
+[0m[[0m[0minfo[0m] [0m[0m[32m- should allow for 1[0m[0m[0J
+[0m[[0m[0minfo[0m] [0m[0m[32mIterator[0m[0m[0J
+[0m[[0m[0minfo[0m] [0m[0m[32m- should support EmptyList[0m[0m[0J
+[0m[[0m[0minfo[0m] [0m[0m[32m- should support from[0m[0m[0J
+[0m[[0m[0minfo[0m] [0m[0m[32m- should support singleton[0m[0m[0J
+[0m[[0m[0minfo[0m] [0m[0m[32mMappedListSpec:[0m[0m[0J
+[0m[[0m[0minfo[0m] [0m[0m[32mMappedList constructor[0m[0m[0J
+[0m[[0m[0minfo[0m] [0m[0m[32m- should produce a single 1[0m[0m[0J
+[0m[[0m[0minfo[0m] [0m[0m[32m- should produce a single "1"[0m[0m[0J
+[0m[[0m[0minfo[0m] [0m[0m[32mtoSeq[0m[0m[0J
+[0m[[0m[0minfo[0m] [0m[0m[32m- should produce a single 1[0m[0m[0J
+[0m[[0m[0minfo[0m] [0m[0m[32m- should produce a sequence of 1, 2[0m[0m[0J
+[0m[[0m[0minfo[0m] [0m[0m[32mtake[0m[0m[0J
+[0m[[0m[0minfo[0m] [0m[0m[32m- should take zero[0m[0m[0J
+[0m[[0m[0minfo[0m] [0m[0m[32mdrop[0m[0m[0J
+[0m[[0m[0minfo[0m] [0m[0m[32m- should work correctly[0m[0m[0J
+[0m[[0m[0minfo[0m] [0m[0m[32m++[0m[0m[0J
+[0m[[0m[0minfo[0m] [0m[0m[32m- should join two Empty streams together[0m[0m[0J
+[0m[[0m[0minfo[0m] [0m[0m[32m- should join a stream with an Empty stream[0m[0m[0J
+[0m[[0m[0minfo[0m] [0m[0m[32m- should join an Empty stream with a stream[0m[0m[0J
+[0m[[0m[0minfo[0m] [0m[0m[32mmap[0m[0m[0J
+[0m[[0m[0minfo[0m] [0m[0m[32m- should produce a stream of 2s[0m[0m[0J
+[0m[[0m[0minfo[0m] [0m[0m[32mflatMap[0m[0m[0J
+[0m[[0m[0minfo[0m] [0m[0m[32m- should produce a stream of 2s from a single element 1[0m[0m[0J
+[0m[[0m[0minfo[0m] [0m[0m[32m- should produce a stream of 2s from a stream of 1s[0m[0m[0J
+[0m[[0m[0minfo[0m] [0m[0m[32mfilter[0m[0m[0J
+[0m[[0m[0minfo[0m] [0m[0m[32m- should produce a stream of even numbers using from(1)[0m[0m[0J
+[0m[[0m[0minfo[0m] [0m[0m[32m- should produce a stream of even numbers using from(2,2)[0m[0m[0J
+[0m[[0m[0minfo[0m] [0m[0m[32mfilterNot[0m[0m[0J
+[0m[[0m[0minfo[0m] [0m[0m[32m- should produce a stream of even numbers using from(1)[0m[0m[0J
+[0m[[0m[0minfo[0m] [0m[0m[32m- should produce a stream of even numbers using from(2,2)[0m[0m[0J
+[0m[[0m[0minfo[0m] [0m[0m[32mzip[0m[0m[0J
+[0m[[0m[0minfo[0m] [0m[0m[32m- should zip together two empty streams[0m[0m[0J
+[0m[[0m[0minfo[0m] [0m[0m[32m- should zip together a stream and an empty stream[0m[0m[0J
+[0m[[0m[0minfo[0m] [0m[0m[32m- should zip together an empty stream and a stream[0m[0m[0J
+[0m[[0m[0minfo[0m] [0m[0m[32m- should zip together two non-empty streams[0m[0m[0J
+[0m[[0m[0minfo[0m] [0m[0m[32mapply[0m[0m[0J
+[0m[[0m[0minfo[0m] [0m[0m[32m- should produce a stream of a single 1[0m[0m[0J
+[0m[[0m[0minfo[0m] [0m[0m[32mcontinually[0m[0m[0J
+[0m[[0m[0minfo[0m] [0m[0m[32m- should produce a stream of 1s[0m[0m[0J
+[0m[[0m[0minfo[0m] [0m[0m[32m- should produce a stream of 1 thru 3[0m[0m[0J
+[0m[[0m[0minfo[0m] [0m[0m[32mLazyList as a monad[0m[0m[0J
+[0m[[0m[0minfo[0m] [0m[0m[32m- should support a for-comprehension[0m[0m[0J
+[0m[[0m[0minfo[0m] [0m[0m[32m- should support a for-comprehension with filter[0m[0m[0J
+[0m[[0m[0minfo[0m] [0m[0m[36mRun completed in 599 milliseconds.[0m[0m[0J
+[0m[[0m[0minfo[0m] [0m[0m[36mTotal number of tests run: 62[0m[0m[0J
+[0m[[0m[0minfo[0m] [0m[0m[36mSuites: completed 2, aborted 0[0m[0m[0J
+[0m[[0m[0minfo[0m] [0m[0m[36mTests: succeeded 62, failed 0, canceled 0, ignored 0, pending 0[0m[0m[0J
+[0m[[0m[0minfo[0m] [0m[0m[32mAll tests passed.[0m[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0mPassed tests:[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0m	edu.neu.coe.csye7200.asstll.MappedListSpec[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0m	edu.neu.coe.csye7200.asstll.MyLazyListSpec[0m[0J

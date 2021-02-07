@@ -13,6 +13,13 @@
   <component name="CodeStyleSettingsInfer">
     <option name="done" value="true" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Scala Worksheet" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
@@ -30,12 +37,18 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/lab" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
+    <property name="two.files.diff.last.used.file" value="$PROJECT_DIR$/src/lab" />
   </component>
-  <component name="RunManager" selected="Application.Ingest">
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\Neu Class\CSYE7200\assignment-helloworld" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Scala REPL.Scala REPL">
     <configuration name="HelloWorld" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="edu.neu.coe.csye7200.assthw.HelloWorld" />
       <module name="assignment-helloworld" />
@@ -62,19 +75,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
+    <configuration name="Scala REPL" type="ScalaScriptConsoleRunConfiguration" factoryName="Scala Console" temporary="true" show_console_on_std_err="false" show_console_on_std_out="false">
+      <module name="assignment-helloworld" />
+      <option name="allowRunningInParallel" value="false" />
+      <option name="javaOptions" value="-Djline.terminal=NONE" />
+      <option name="myConsoleArgs" value="" />
+      <option name="selectedOptions">
+        <list />
       </option>
-      <option name="TEST_OBJECT" value="class" />
+      <option name="workingDirectory" value="$PROJECT_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Scala REPL.Scala REPL" />
         <item itemvalue="Application.Ingest" />
         <item itemvalue="Application.HelloWorld" />
       </list>
@@ -89,6 +105,12 @@
       <option name="presentableId" value="Default" />
       <updated>1611904055361</updated>
       <workItem from="1611904056666" duration="150000" />
+      <workItem from="1611992499103" duration="2880000" />
+      <workItem from="1612380373489" duration="88000" />
+      <workItem from="1612380802968" duration="317000" />
+      <workItem from="1612381481203" duration="3493000" />
+      <workItem from="1612462221154" duration="793000" />
+      <workItem from="1612594080948" duration="430000" />
     </task>
     <servers />
   </component>
