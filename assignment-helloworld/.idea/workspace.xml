@@ -37,7 +37,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/lab" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../CSYE7200-material/assignment-web-crawler" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -48,7 +48,7 @@
       <recent name="F:\Neu Class\CSYE7200\assignment-helloworld" />
     </key>
   </component>
-  <component name="RunManager" selected="Scala REPL.Scala REPL">
+  <component name="RunManager" selected="Application.Lab2">
     <configuration name="HelloWorld" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="edu.neu.coe.csye7200.assthw.HelloWorld" />
       <module name="assignment-helloworld" />
@@ -75,6 +75,24 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Lab2" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Lab2" />
+      <module name="assignment-helloworld" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Scala REPL" type="ScalaScriptConsoleRunConfiguration" factoryName="Scala Console" temporary="true" show_console_on_std_err="false" show_console_on_std_out="false">
       <module name="assignment-helloworld" />
       <option name="allowRunningInParallel" value="false" />
@@ -90,6 +108,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Lab2" />
         <item itemvalue="Scala REPL.Scala REPL" />
         <item itemvalue="Application.Ingest" />
         <item itemvalue="Application.HelloWorld" />
@@ -112,6 +131,11 @@
       <workItem from="1612462221154" duration="793000" />
       <workItem from="1612594080948" duration="430000" />
       <workItem from="1612977869998" duration="70000" />
+      <workItem from="1615483817632" duration="251000" />
+      <workItem from="1615753120272" duration="1089000" />
+      <workItem from="1615822127537" duration="5192000" />
+      <workItem from="1615926127797" duration="32000" />
+      <workItem from="1616006653934" duration="2827000" />
     </task>
     <servers />
   </component>
